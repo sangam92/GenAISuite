@@ -1,0 +1,1 @@
+PII_FIELDS = {"name", "email", "phone", "salary", "aadhaar", "pan"}
